@@ -180,4 +180,9 @@ The results also show that increasing antenna height increases the breakpoint di
 
 **Topic:** Free-space and Two-ray Ground Reflection Propagation  
 **Programming Language:** Python  
-**Application Area:** Mobile and Wireless Communication
+course title: Mobile and Wireless Communication
+name:samin afzal fuad
+id-T241002
+dept:electronics and telecommunication engineering
+international islamic university chittagong 
+semester:6th
